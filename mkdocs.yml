@@ -1,6 +1,6 @@
 # [Info]
 site_name: 【Black Network Tools】  ✈️@PUSHHHKKK # 左上角标题
-site_url: https://k8.github.io/
+site_url: https://pushkkk.github.io/
 site_author: ✈️@PUSHHHKKK 
 site_description: ✈️@PUSHHHKKK 
 
@@ -160,10 +160,10 @@ copyright: Push CC-BY-4.0 # 左下角的版权声明
 extra:
   social: # icons
     - icon: fontawesome/brands/telegram
-      link: https://k8.github.io/pic/IMEAXXX.png
+      link: https://pushkkk.github.io/pic/IMEAXXX.png
       name: Telegram | ✈️@PUSHHHKKK # 鼠标悬浮提示
     - icon: fontawesome/brands/github
-      link: https://k8.github.io
+      link: https://pushkkk.github.io
       name: GitHub | ✈️@PUSHHHKKK 
 
 # [Extensions]
