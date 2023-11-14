@@ -1,4 +1,4 @@
-name:push  site
+name:push site
 on: # 在什么时候触发工作流
   push: # 在从本地main分支被push到GitHub仓库时
     branches:
@@ -13,6 +13,12 @@ jobs: # 工作流的具体内容
       - uses: actions/checkout@v2 # 先checkout到main分支
       - uses: actions/setup-python@v2 # 再安装Python3和相关环境
         with:
-          python-version: 3.x
+         # Update to use Node.js 16
+          node-version: 16
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+        # Update to use Python version as needed
+        python-version: 3.x
       - run: pip install mkdocs-material # 使用pip包管理工具安装mkdocs-material
       - run: mkdocs gh-deploy --force # 使用mkdocs-material部署gh-pages分支
